@@ -1,9 +1,9 @@
 
 
-# 🌾 AgriSmart.Ai – Revolutionizing Agriculture with AI
+# 🌾 LeafX – Revolutionizing Agriculture with AI
 
 > **Empowering Farmers with AI-Driven Insights for Sustainable Farming**  
-> *Developed with passion for the Hack4Bengal Virtual Hacks.*
+
 
 ![image](agrismarthomepage.png)
 
@@ -136,46 +136,4 @@ Machine Learning Models
      ↓
 Database (SQLAlchemy)
 ```
-
----
-
-## 🌍 Accessibility & Inclusivity
-
-- 🌐 Multilingual support for diverse user base
-- 📱 Mobile-friendly design for on-the-go access
-- 🧑‍🦯 Screen reader compatibility for visually impaired users
-
----
-
-## 🔗 Useful Links
-
-- 🧠 **GitHub Repository:** [AgriSmart.Ai](https://github.com/Srinjoy2004/Hack4Bengal-VirtualHacks---AgriSmart.Ai)
-- 📄 **Project Documentation:** [AgriSmart.Ai Docs](#) *(Link to be provided)*
-
----
-
-## 🔮 Future Enhancements
-
-- 📱 Development of a dedicated mobile application
-- 🌐 Integration with IoT devices for real-time data collection
-- 🧠 Implementation of deep learning models for advanced analytics
-- 📊 Dashboard for real-time monitoring and alerts
-
----
-
-## 🤝 Team
-
-**Team Name:** AgriSmart.Ai  
-👨‍💻 **Team Lead:** Srinjoy Pramanik
-**Team Members :** Arpan Chowdhury I Syed Md.Musharraf I Subhabilas
-
-🏫 **Hackathon:** Hack4Bengal Virtual Hacks
-
----
-
-Feel free to customize this `README.md` further to align with your project's specifics. If you have images or diagrams of your machine learning models, you can include them in the respective sections using markdown syntax:
-
-### 🖼️ our model architecture
-![Model Architecture](model_architecture.jpeg)
-
 
